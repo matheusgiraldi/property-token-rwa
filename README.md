@@ -1,3 +1,7 @@
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Network](https://img.shields.io/badge/Network-Ethereum-purple)
+
 # PropertyToken - Tokenização de Imóveis com Blockchain
 
 **Projeto:** SSC0958 - Blockchain e Criptomoedas  
